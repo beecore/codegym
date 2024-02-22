@@ -1,0 +1,12 @@
+F:\KhoaHoc\UnityGym\khoacsharp\Lession1\Lession_Ham\bin\Debug\Lession_Ham.exe.config
+F:\KhoaHoc\UnityGym\khoacsharp\Lession1\Lession_Ham\bin\Debug\Lession_Ham.exe
+F:\KhoaHoc\UnityGym\khoacsharp\Lession1\Lession_Ham\bin\Debug\Lession_Ham.pdb
+F:\KhoaHoc\UnityGym\khoacsharp\Lession1\Lession_Ham\obj\Debug\Lession_Ham.exe
+F:\KhoaHoc\UnityGym\khoacsharp\Lession1\Lession_Ham\obj\Debug\Lession_Ham.pdb
+F:\KhoaHoc\UnityGym\khoacsharp\Lession1\Lession_Ham\obj\Debug\Lession_Ham.csprojResolveAssemblyReference.cache
+F:\KhoaHoc\UnityGym\KhoaHocCsharp\Lession_Ham\bin\Debug\Lession_Ham.exe.config
+F:\KhoaHoc\UnityGym\KhoaHocCsharp\Lession_Ham\obj\Debug\Lession_Ham.exe
+F:\KhoaHoc\UnityGym\KhoaHocCsharp\Lession_Ham\obj\Debug\Lession_Ham.pdb
+F:\KhoaHoc\UnityGym\KhoaHocCsharp\Lession_Ham\bin\Debug\Lession_Ham.exe
+F:\KhoaHoc\UnityGym\KhoaHocCsharp\Lession_Ham\bin\Debug\Lession_Ham.pdb
+F:\KhoaHoc\UnityGym\KhoaHocCsharp\Lession_Ham\obj\Debug\Lession_Ham.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+F:\KhoaHoc\UnityGym\khoacsharp\Lession1\Lession6_Mang\bin\Debug\Lession6_Mang.exe.config
+F:\KhoaHoc\UnityGym\khoacsharp\Lession1\Lession6_Mang\bin\Debug\Lession6_Mang.exe
+F:\KhoaHoc\UnityGym\khoacsharp\Lession1\Lession6_Mang\bin\Debug\Lession6_Mang.pdb
+F:\KhoaHoc\UnityGym\khoacsharp\Lession1\Lession6_Mang\obj\Debug\Lession6_Mang.csprojResolveAssemblyReference.cache
+F:\KhoaHoc\UnityGym\khoacsharp\Lession1\Lession6_Mang\obj\Debug\Lession6_Mang.exe
+F:\KhoaHoc\UnityGym\khoacsharp\Lession1\Lession6_Mang\obj\Debug\Lession6_Mang.pdb
