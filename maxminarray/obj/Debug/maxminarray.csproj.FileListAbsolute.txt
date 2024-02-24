@@ -1,0 +1,5 @@
+F:\KhoaHoc\UnityGym\KhoaHocCsharp\maxminarray\bin\Debug\maxminarray.exe.config
+F:\KhoaHoc\UnityGym\KhoaHocCsharp\maxminarray\bin\Debug\maxminarray.exe
+F:\KhoaHoc\UnityGym\KhoaHocCsharp\maxminarray\bin\Debug\maxminarray.pdb
+F:\KhoaHoc\UnityGym\KhoaHocCsharp\maxminarray\obj\Debug\maxminarray.exe
+F:\KhoaHoc\UnityGym\KhoaHocCsharp\maxminarray\obj\Debug\maxminarray.pdb
