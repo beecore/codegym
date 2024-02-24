@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Lession_Ham
+namespace Lession7_Ham
 {
     class Program
     {

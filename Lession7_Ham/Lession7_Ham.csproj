@@ -7,8 +7,8 @@
     <ProjectGuid>{AECEA975-AA72-4FA3-91D8-C1B45ED39ADF}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Lession_Ham</RootNamespace>
-    <AssemblyName>Lession_Ham</AssemblyName>
+    <RootNamespace>Lession7_Ham</RootNamespace>
+    <AssemblyName>Lession7_Ham</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
