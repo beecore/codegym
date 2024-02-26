@@ -19,6 +19,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "changetemperature", "change
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "maxminarray", "maxminarray\maxminarray.csproj", "{901E23AD-5BF2-44CE-8EE8-ADC1BBE0F5EE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "snakeproject", "snakeproject\snakeproject.csproj", "{AACCC364-A4BC-4FA6-ACAC-CE46C87ADB98}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SnakeGame", "SnakeGame\SnakeGame.csproj", "{E5CB640C-2FCC-4F3E-9BAC-0A4B42568897}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +61,14 @@ Global
 		{901E23AD-5BF2-44CE-8EE8-ADC1BBE0F5EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{901E23AD-5BF2-44CE-8EE8-ADC1BBE0F5EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{901E23AD-5BF2-44CE-8EE8-ADC1BBE0F5EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AACCC364-A4BC-4FA6-ACAC-CE46C87ADB98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AACCC364-A4BC-4FA6-ACAC-CE46C87ADB98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AACCC364-A4BC-4FA6-ACAC-CE46C87ADB98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AACCC364-A4BC-4FA6-ACAC-CE46C87ADB98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5CB640C-2FCC-4F3E-9BAC-0A4B42568897}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5CB640C-2FCC-4F3E-9BAC-0A4B42568897}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5CB640C-2FCC-4F3E-9BAC-0A4B42568897}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5CB640C-2FCC-4F3E-9BAC-0A4B42568897}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

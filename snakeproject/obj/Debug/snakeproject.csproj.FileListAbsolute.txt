@@ -1,0 +1,6 @@
+F:\KhoaHoc\UnityGym\KhoaHocCsharp\snakeproject\bin\Debug\snakeproject.exe.config
+F:\KhoaHoc\UnityGym\KhoaHocCsharp\snakeproject\obj\Debug\snakeproject.csprojResolveAssemblyReference.cache
+F:\KhoaHoc\UnityGym\KhoaHocCsharp\snakeproject\bin\Debug\snakeproject.exe
+F:\KhoaHoc\UnityGym\KhoaHocCsharp\snakeproject\bin\Debug\snakeproject.pdb
+F:\KhoaHoc\UnityGym\KhoaHocCsharp\snakeproject\obj\Debug\snakeproject.exe
+F:\KhoaHoc\UnityGym\KhoaHocCsharp\snakeproject\obj\Debug\snakeproject.pdb
