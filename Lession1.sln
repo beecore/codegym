@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "snakeproject", "snakeprojec
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SnakeGame", "SnakeGame\SnakeGame.csproj", "{E5CB640C-2FCC-4F3E-9BAC-0A4B42568897}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeleteItemArray", "DeleteItemArray\DeleteItemArray.csproj", "{26DB515D-A19B-4F49-8682-6501E981FDC1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{E5CB640C-2FCC-4F3E-9BAC-0A4B42568897}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E5CB640C-2FCC-4F3E-9BAC-0A4B42568897}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E5CB640C-2FCC-4F3E-9BAC-0A4B42568897}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26DB515D-A19B-4F49-8682-6501E981FDC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26DB515D-A19B-4F49-8682-6501E981FDC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26DB515D-A19B-4F49-8682-6501E981FDC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26DB515D-A19B-4F49-8682-6501E981FDC1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
