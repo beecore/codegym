@@ -1,0 +1,5 @@
+F:\KhoaHoc\UnityGym\KhoaHocCsharp\StaticMethod\bin\Debug\StaticMethod.exe.config
+F:\KhoaHoc\UnityGym\KhoaHocCsharp\StaticMethod\bin\Debug\StaticMethod.exe
+F:\KhoaHoc\UnityGym\KhoaHocCsharp\StaticMethod\bin\Debug\StaticMethod.pdb
+F:\KhoaHoc\UnityGym\KhoaHocCsharp\StaticMethod\obj\Debug\StaticMethod.exe
+F:\KhoaHoc\UnityGym\KhoaHocCsharp\StaticMethod\obj\Debug\StaticMethod.pdb

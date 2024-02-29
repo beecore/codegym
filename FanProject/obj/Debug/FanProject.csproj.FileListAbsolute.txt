@@ -1,0 +1,5 @@
+F:\KhoaHoc\UnityGym\KhoaHocCsharp\FanProject\bin\Debug\FanProject.exe.config
+F:\KhoaHoc\UnityGym\KhoaHocCsharp\FanProject\bin\Debug\FanProject.exe
+F:\KhoaHoc\UnityGym\KhoaHocCsharp\FanProject\bin\Debug\FanProject.pdb
+F:\KhoaHoc\UnityGym\KhoaHocCsharp\FanProject\obj\Debug\FanProject.exe
+F:\KhoaHoc\UnityGym\KhoaHocCsharp\FanProject\obj\Debug\FanProject.pdb
