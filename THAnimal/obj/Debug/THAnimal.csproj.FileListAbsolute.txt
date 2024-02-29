@@ -1,5 +1,0 @@
-F:\KhoaHoc\UnityGym\KhoaHocCsharp\THAnimal\bin\Debug\THAnimal.exe.config
-F:\KhoaHoc\UnityGym\KhoaHocCsharp\THAnimal\bin\Debug\THAnimal.exe
-F:\KhoaHoc\UnityGym\KhoaHocCsharp\THAnimal\bin\Debug\THAnimal.pdb
-F:\KhoaHoc\UnityGym\KhoaHocCsharp\THAnimal\obj\Debug\THAnimal.exe
-F:\KhoaHoc\UnityGym\KhoaHocCsharp\THAnimal\obj\Debug\THAnimal.pdb
