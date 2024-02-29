@@ -1,0 +1,5 @@
+F:\KhoaHoc\UnityGym\CsharpCodegym\StaticMethod\bin\Debug\StaticMethod.exe.config
+F:\KhoaHoc\UnityGym\CsharpCodegym\StaticMethod\bin\Debug\StaticMethod.exe
+F:\KhoaHoc\UnityGym\CsharpCodegym\StaticMethod\bin\Debug\StaticMethod.pdb
+F:\KhoaHoc\UnityGym\CsharpCodegym\StaticMethod\obj\Debug\StaticMethod.exe
+F:\KhoaHoc\UnityGym\CsharpCodegym\StaticMethod\obj\Debug\StaticMethod.pdb

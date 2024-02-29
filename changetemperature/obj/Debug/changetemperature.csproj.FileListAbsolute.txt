@@ -1,0 +1,5 @@
+F:\KhoaHoc\UnityGym\CsharpCodegym\changetemperature\bin\Debug\changetemperature.exe.config
+F:\KhoaHoc\UnityGym\CsharpCodegym\changetemperature\bin\Debug\changetemperature.exe
+F:\KhoaHoc\UnityGym\CsharpCodegym\changetemperature\bin\Debug\changetemperature.pdb
+F:\KhoaHoc\UnityGym\CsharpCodegym\changetemperature\obj\Debug\changetemperature.exe
+F:\KhoaHoc\UnityGym\CsharpCodegym\changetemperature\obj\Debug\changetemperature.pdb

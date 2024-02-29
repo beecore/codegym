@@ -4,3 +4,9 @@ F:\KhoaHoc\UnityGym\khoacsharp\Lession1\Lession5_CauTrucLap\bin\Debug\Lession5_C
 F:\KhoaHoc\UnityGym\khoacsharp\Lession1\Lession5_CauTrucLap\obj\Debug\Lession5_CauTrucLap.csprojResolveAssemblyReference.cache
 F:\KhoaHoc\UnityGym\khoacsharp\Lession1\Lession5_CauTrucLap\obj\Debug\Lession5_CauTrucLap.exe
 F:\KhoaHoc\UnityGym\khoacsharp\Lession1\Lession5_CauTrucLap\obj\Debug\Lession5_CauTrucLap.pdb
+F:\KhoaHoc\UnityGym\CsharpCodegym\Lession5_CauTrucLap\bin\Debug\Lession5_CauTrucLap.exe.config
+F:\KhoaHoc\UnityGym\CsharpCodegym\Lession5_CauTrucLap\bin\Debug\Lession5_CauTrucLap.exe
+F:\KhoaHoc\UnityGym\CsharpCodegym\Lession5_CauTrucLap\bin\Debug\Lession5_CauTrucLap.pdb
+F:\KhoaHoc\UnityGym\CsharpCodegym\Lession5_CauTrucLap\obj\Debug\Lession5_CauTrucLap.csprojResolveAssemblyReference.cache
+F:\KhoaHoc\UnityGym\CsharpCodegym\Lession5_CauTrucLap\obj\Debug\Lession5_CauTrucLap.exe
+F:\KhoaHoc\UnityGym\CsharpCodegym\Lession5_CauTrucLap\obj\Debug\Lession5_CauTrucLap.pdb

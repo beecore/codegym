@@ -1,0 +1,5 @@
+F:\KhoaHoc\UnityGym\CsharpCodegym\SnakeGame\bin\Debug\SnakeGame.exe.config
+F:\KhoaHoc\UnityGym\CsharpCodegym\SnakeGame\bin\Debug\SnakeGame.exe
+F:\KhoaHoc\UnityGym\CsharpCodegym\SnakeGame\bin\Debug\SnakeGame.pdb
+F:\KhoaHoc\UnityGym\CsharpCodegym\SnakeGame\obj\Debug\SnakeGame.exe
+F:\KhoaHoc\UnityGym\CsharpCodegym\SnakeGame\obj\Debug\SnakeGame.pdb

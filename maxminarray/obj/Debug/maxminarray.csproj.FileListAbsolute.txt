@@ -1,0 +1,6 @@
+F:\KhoaHoc\UnityGym\CsharpCodegym\maxminarray\bin\Debug\maxminarray.exe.config
+F:\KhoaHoc\UnityGym\CsharpCodegym\maxminarray\bin\Debug\maxminarray.exe
+F:\KhoaHoc\UnityGym\CsharpCodegym\maxminarray\bin\Debug\maxminarray.pdb
+F:\KhoaHoc\UnityGym\CsharpCodegym\maxminarray\obj\Debug\maxminarray.csprojResolveAssemblyReference.cache
+F:\KhoaHoc\UnityGym\CsharpCodegym\maxminarray\obj\Debug\maxminarray.exe
+F:\KhoaHoc\UnityGym\CsharpCodegym\maxminarray\obj\Debug\maxminarray.pdb

@@ -1,0 +1,5 @@
+F:\KhoaHoc\UnityGym\CsharpCodegym\Lession_Lop\bin\Debug\Lession_Lop.exe.config
+F:\KhoaHoc\UnityGym\CsharpCodegym\Lession_Lop\bin\Debug\Lession_Lop.exe
+F:\KhoaHoc\UnityGym\CsharpCodegym\Lession_Lop\bin\Debug\Lession_Lop.pdb
+F:\KhoaHoc\UnityGym\CsharpCodegym\Lession_Lop\obj\Debug\Lession_Lop.exe
+F:\KhoaHoc\UnityGym\CsharpCodegym\Lession_Lop\obj\Debug\Lession_Lop.pdb

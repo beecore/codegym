@@ -1,1 +1,5 @@
 F:\KhoaHoc\UnityGym\CsharpCodegym\Rectangle\bin\Debug\Rectangle.exe.config
+F:\KhoaHoc\UnityGym\CsharpCodegym\Rectangle\bin\Debug\Rectangle.exe
+F:\KhoaHoc\UnityGym\CsharpCodegym\Rectangle\bin\Debug\Rectangle.pdb
+F:\KhoaHoc\UnityGym\CsharpCodegym\Rectangle\obj\Debug\Rectangle.exe
+F:\KhoaHoc\UnityGym\CsharpCodegym\Rectangle\obj\Debug\Rectangle.pdb
