@@ -1,0 +1,6 @@
+F:\KhoaHoc\UnityGym\CsharpCodegym\AnimalProject\bin\Debug\AnimalProject.exe.config
+F:\KhoaHoc\UnityGym\CsharpCodegym\AnimalProject\bin\Debug\AnimalProject.exe
+F:\KhoaHoc\UnityGym\CsharpCodegym\AnimalProject\bin\Debug\AnimalProject.pdb
+F:\KhoaHoc\UnityGym\CsharpCodegym\AnimalProject\obj\Debug\AnimalProject.csprojResolveAssemblyReference.cache
+F:\KhoaHoc\UnityGym\CsharpCodegym\AnimalProject\obj\Debug\AnimalProject.exe
+F:\KhoaHoc\UnityGym\CsharpCodegym\AnimalProject\obj\Debug\AnimalProject.pdb
