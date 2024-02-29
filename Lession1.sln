@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StaticMethod", "StaticMetho
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FanProject", "FanProject\FanProject.csproj", "{16EF33C8-7CEF-49F3-8FDD-B945EA3309E7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StopWatchProject", "StopWatchProject\StopWatchProject.csproj", "{FBAED051-E6BE-4C1C-A05F-2DEB6682271A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{16EF33C8-7CEF-49F3-8FDD-B945EA3309E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{16EF33C8-7CEF-49F3-8FDD-B945EA3309E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{16EF33C8-7CEF-49F3-8FDD-B945EA3309E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBAED051-E6BE-4C1C-A05F-2DEB6682271A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBAED051-E6BE-4C1C-A05F-2DEB6682271A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBAED051-E6BE-4C1C-A05F-2DEB6682271A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBAED051-E6BE-4C1C-A05F-2DEB6682271A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

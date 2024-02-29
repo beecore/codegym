@@ -1,0 +1,5 @@
+F:\KhoaHoc\UnityGym\CsharpCodegym\StopWatchProject\bin\Debug\StopWatchProject.exe.config
+F:\KhoaHoc\UnityGym\CsharpCodegym\StopWatchProject\bin\Debug\StopWatchProject.exe
+F:\KhoaHoc\UnityGym\CsharpCodegym\StopWatchProject\bin\Debug\StopWatchProject.pdb
+F:\KhoaHoc\UnityGym\CsharpCodegym\StopWatchProject\obj\Debug\StopWatchProject.exe
+F:\KhoaHoc\UnityGym\CsharpCodegym\StopWatchProject\obj\Debug\StopWatchProject.pdb
