@@ -1,5 +1,0 @@
-F:\KhoaHoc\UnityGym\KhoaHocCsharp\changetemperature\bin\Debug\changetemperature.exe.config
-F:\KhoaHoc\UnityGym\KhoaHocCsharp\changetemperature\bin\Debug\changetemperature.exe
-F:\KhoaHoc\UnityGym\KhoaHocCsharp\changetemperature\bin\Debug\changetemperature.pdb
-F:\KhoaHoc\UnityGym\KhoaHocCsharp\changetemperature\obj\Debug\changetemperature.exe
-F:\KhoaHoc\UnityGym\KhoaHocCsharp\changetemperature\obj\Debug\changetemperature.pdb

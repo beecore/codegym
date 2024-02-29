@@ -1,6 +1,0 @@
-F:\KhoaHoc\UnityGym\KhoaHocCsharp\DeleteItemArray\bin\Debug\DeleteItemArray.exe.config
-F:\KhoaHoc\UnityGym\KhoaHocCsharp\DeleteItemArray\bin\Debug\DeleteItemArray.exe
-F:\KhoaHoc\UnityGym\KhoaHocCsharp\DeleteItemArray\bin\Debug\DeleteItemArray.pdb
-F:\KhoaHoc\UnityGym\KhoaHocCsharp\DeleteItemArray\obj\Debug\DeleteItemArray.csprojResolveAssemblyReference.cache
-F:\KhoaHoc\UnityGym\KhoaHocCsharp\DeleteItemArray\obj\Debug\DeleteItemArray.exe
-F:\KhoaHoc\UnityGym\KhoaHocCsharp\DeleteItemArray\obj\Debug\DeleteItemArray.pdb

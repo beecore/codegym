@@ -1,6 +1,0 @@
-F:\KhoaHoc\UnityGym\KhoaHocCsharp\SnakeGame\bin\Debug\SnakeGame.exe.config
-F:\KhoaHoc\UnityGym\KhoaHocCsharp\SnakeGame\bin\Debug\SnakeGame.exe
-F:\KhoaHoc\UnityGym\KhoaHocCsharp\SnakeGame\bin\Debug\SnakeGame.pdb
-F:\KhoaHoc\UnityGym\KhoaHocCsharp\SnakeGame\obj\Debug\SnakeGame.exe
-F:\KhoaHoc\UnityGym\KhoaHocCsharp\SnakeGame\obj\Debug\SnakeGame.pdb
-F:\KhoaHoc\UnityGym\KhoaHocCsharp\SnakeGame\obj\Debug\SnakeGame.csprojResolveAssemblyReference.cache

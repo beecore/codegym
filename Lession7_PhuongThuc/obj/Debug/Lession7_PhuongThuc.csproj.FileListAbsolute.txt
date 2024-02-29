@@ -1,6 +1,0 @@
-F:\KhoaHoc\UnityGym\KhoaHocCsharp\Lession7_PhuongThuc\bin\Debug\Lession7_PhuongThuc.exe.config
-F:\KhoaHoc\UnityGym\KhoaHocCsharp\Lession7_PhuongThuc\bin\Debug\Lession7_PhuongThuc.exe
-F:\KhoaHoc\UnityGym\KhoaHocCsharp\Lession7_PhuongThuc\bin\Debug\Lession7_PhuongThuc.pdb
-F:\KhoaHoc\UnityGym\KhoaHocCsharp\Lession7_PhuongThuc\obj\Debug\Lession7_PhuongThuc.csprojResolveAssemblyReference.cache
-F:\KhoaHoc\UnityGym\KhoaHocCsharp\Lession7_PhuongThuc\obj\Debug\Lession7_PhuongThuc.exe
-F:\KhoaHoc\UnityGym\KhoaHocCsharp\Lession7_PhuongThuc\obj\Debug\Lession7_PhuongThuc.pdb
