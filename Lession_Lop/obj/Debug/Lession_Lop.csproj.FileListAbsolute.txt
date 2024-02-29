@@ -1,0 +1,6 @@
+F:\KhoaHoc\UnityGym\KhoaHocCsharp\Lession_Lop\bin\Debug\Lession_Lop.exe.config
+F:\KhoaHoc\UnityGym\KhoaHocCsharp\Lession_Lop\bin\Debug\Lession_Lop.exe
+F:\KhoaHoc\UnityGym\KhoaHocCsharp\Lession_Lop\bin\Debug\Lession_Lop.pdb
+F:\KhoaHoc\UnityGym\KhoaHocCsharp\Lession_Lop\obj\Debug\Lession_Lop.csprojResolveAssemblyReference.cache
+F:\KhoaHoc\UnityGym\KhoaHocCsharp\Lession_Lop\obj\Debug\Lession_Lop.exe
+F:\KhoaHoc\UnityGym\KhoaHocCsharp\Lession_Lop\obj\Debug\Lession_Lop.pdb

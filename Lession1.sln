@@ -25,6 +25,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SnakeGame", "SnakeGame\Snak
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeleteItemArray", "DeleteItemArray\DeleteItemArray.csproj", "{26DB515D-A19B-4F49-8682-6501E981FDC1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lession_Lop", "Lession_Lop\Lession_Lop.csproj", "{1D3A3E4B-920E-4AD2-963C-CBDD5D26EDA2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rectangle", "Rectangle\Rectangle.csproj", "{14ACD87C-9041-4AB9-B45A-4BAC86098965}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +79,14 @@ Global
 		{26DB515D-A19B-4F49-8682-6501E981FDC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{26DB515D-A19B-4F49-8682-6501E981FDC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{26DB515D-A19B-4F49-8682-6501E981FDC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D3A3E4B-920E-4AD2-963C-CBDD5D26EDA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D3A3E4B-920E-4AD2-963C-CBDD5D26EDA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D3A3E4B-920E-4AD2-963C-CBDD5D26EDA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D3A3E4B-920E-4AD2-963C-CBDD5D26EDA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14ACD87C-9041-4AB9-B45A-4BAC86098965}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14ACD87C-9041-4AB9-B45A-4BAC86098965}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14ACD87C-9041-4AB9-B45A-4BAC86098965}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14ACD87C-9041-4AB9-B45A-4BAC86098965}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
