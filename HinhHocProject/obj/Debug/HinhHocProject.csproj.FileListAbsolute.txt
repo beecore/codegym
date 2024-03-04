@@ -1,0 +1,6 @@
+F:\KhoaHoc\UnityGym\CsharpCodegym\HinhHocProject\bin\Debug\HinhHocProject.exe.config
+F:\KhoaHoc\UnityGym\CsharpCodegym\HinhHocProject\bin\Debug\HinhHocProject.exe
+F:\KhoaHoc\UnityGym\CsharpCodegym\HinhHocProject\bin\Debug\HinhHocProject.pdb
+F:\KhoaHoc\UnityGym\CsharpCodegym\HinhHocProject\obj\Debug\HinhHocProject.csprojResolveAssemblyReference.cache
+F:\KhoaHoc\UnityGym\CsharpCodegym\HinhHocProject\obj\Debug\HinhHocProject.exe
+F:\KhoaHoc\UnityGym\CsharpCodegym\HinhHocProject\obj\Debug\HinhHocProject.pdb

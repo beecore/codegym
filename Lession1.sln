@@ -35,6 +35,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FanProject", "FanProject\Fa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StopWatchProject", "StopWatchProject\StopWatchProject.csproj", "{FBAED051-E6BE-4C1C-A05F-2DEB6682271A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HinhHocProject", "HinhHocProject\HinhHocProject.csproj", "{7D6B6903-F2D6-4AA6-A962-1E2AAA2D56B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShapeProject", "ShapeProject\ShapeProject.csproj", "{1C8F73F3-0812-44A4-85E8-C38742EE4BEC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +109,14 @@ Global
 		{FBAED051-E6BE-4C1C-A05F-2DEB6682271A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FBAED051-E6BE-4C1C-A05F-2DEB6682271A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FBAED051-E6BE-4C1C-A05F-2DEB6682271A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D6B6903-F2D6-4AA6-A962-1E2AAA2D56B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D6B6903-F2D6-4AA6-A962-1E2AAA2D56B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D6B6903-F2D6-4AA6-A962-1E2AAA2D56B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D6B6903-F2D6-4AA6-A962-1E2AAA2D56B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C8F73F3-0812-44A4-85E8-C38742EE4BEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C8F73F3-0812-44A4-85E8-C38742EE4BEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C8F73F3-0812-44A4-85E8-C38742EE4BEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C8F73F3-0812-44A4-85E8-C38742EE4BEC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

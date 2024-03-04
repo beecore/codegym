@@ -1,0 +1,6 @@
+F:\KhoaHoc\UnityGym\CsharpCodegym\ShapeProject\bin\Debug\ShapeProject.exe.config
+F:\KhoaHoc\UnityGym\CsharpCodegym\ShapeProject\bin\Debug\ShapeProject.exe
+F:\KhoaHoc\UnityGym\CsharpCodegym\ShapeProject\bin\Debug\ShapeProject.pdb
+F:\KhoaHoc\UnityGym\CsharpCodegym\ShapeProject\obj\Debug\ShapeProject.csprojResolveAssemblyReference.cache
+F:\KhoaHoc\UnityGym\CsharpCodegym\ShapeProject\obj\Debug\ShapeProject.exe
+F:\KhoaHoc\UnityGym\CsharpCodegym\ShapeProject\obj\Debug\ShapeProject.pdb
