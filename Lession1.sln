@@ -41,6 +41,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShapeProject", "ShapeProjec
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Circle_Cylinder", "Circle_Cylinder\Circle_Cylinder.csproj", "{4EA85C95-6DDE-4B8D-9FB3-D8D47AD99014}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Point2D3DProject", "Point2D3DProject\Point2D3DProject.csproj", "{91C722AE-E437-45B1-94C8-3B69E84C06F3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -123,6 +125,10 @@ Global
 		{4EA85C95-6DDE-4B8D-9FB3-D8D47AD99014}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4EA85C95-6DDE-4B8D-9FB3-D8D47AD99014}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4EA85C95-6DDE-4B8D-9FB3-D8D47AD99014}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91C722AE-E437-45B1-94C8-3B69E84C06F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91C722AE-E437-45B1-94C8-3B69E84C06F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91C722AE-E437-45B1-94C8-3B69E84C06F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91C722AE-E437-45B1-94C8-3B69E84C06F3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

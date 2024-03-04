@@ -1,0 +1,6 @@
+F:\KhoaHoc\UnityGym\CsharpCodegym\Point2D3DProject\bin\Debug\Point2D3DProject.exe.config
+F:\KhoaHoc\UnityGym\CsharpCodegym\Point2D3DProject\bin\Debug\Point2D3DProject.exe
+F:\KhoaHoc\UnityGym\CsharpCodegym\Point2D3DProject\bin\Debug\Point2D3DProject.pdb
+F:\KhoaHoc\UnityGym\CsharpCodegym\Point2D3DProject\obj\Debug\Point2D3DProject.csprojResolveAssemblyReference.cache
+F:\KhoaHoc\UnityGym\CsharpCodegym\Point2D3DProject\obj\Debug\Point2D3DProject.exe
+F:\KhoaHoc\UnityGym\CsharpCodegym\Point2D3DProject\obj\Debug\Point2D3DProject.pdb
