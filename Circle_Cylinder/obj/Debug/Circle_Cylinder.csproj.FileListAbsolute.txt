@@ -1,0 +1,5 @@
+F:\KhoaHoc\UnityGym\CsharpCodegym\Circle_Cylinder\bin\Debug\Circle_Cylinder.exe.config
+F:\KhoaHoc\UnityGym\CsharpCodegym\Circle_Cylinder\bin\Debug\Circle_Cylinder.exe
+F:\KhoaHoc\UnityGym\CsharpCodegym\Circle_Cylinder\bin\Debug\Circle_Cylinder.pdb
+F:\KhoaHoc\UnityGym\CsharpCodegym\Circle_Cylinder\obj\Debug\Circle_Cylinder.exe
+F:\KhoaHoc\UnityGym\CsharpCodegym\Circle_Cylinder\obj\Debug\Circle_Cylinder.pdb
