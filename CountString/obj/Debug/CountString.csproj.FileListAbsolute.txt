@@ -1,0 +1,6 @@
+F:\KhoaHoc\UnityGym\CsharpCodegym\CountString\bin\Debug\CountString.exe.config
+F:\KhoaHoc\UnityGym\CsharpCodegym\CountString\bin\Debug\CountString.exe
+F:\KhoaHoc\UnityGym\CsharpCodegym\CountString\bin\Debug\CountString.pdb
+F:\KhoaHoc\UnityGym\CsharpCodegym\CountString\obj\Debug\CountString.csprojResolveAssemblyReference.cache
+F:\KhoaHoc\UnityGym\CsharpCodegym\CountString\obj\Debug\CountString.exe
+F:\KhoaHoc\UnityGym\CsharpCodegym\CountString\obj\Debug\CountString.pdb
