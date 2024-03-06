@@ -45,6 +45,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Point2D3DProject", "Point2D
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountString", "CountString\CountString.csproj", "{B39DD570-743F-471C-8501-9F29A3D3F3F1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnimalInterface", "AnimalInterface\AnimalInterface.csproj", "{350674EB-44BB-4969-85FE-C6DBA704DE65}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -135,6 +137,10 @@ Global
 		{B39DD570-743F-471C-8501-9F29A3D3F3F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B39DD570-743F-471C-8501-9F29A3D3F3F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B39DD570-743F-471C-8501-9F29A3D3F3F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{350674EB-44BB-4969-85FE-C6DBA704DE65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{350674EB-44BB-4969-85FE-C6DBA704DE65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{350674EB-44BB-4969-85FE-C6DBA704DE65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{350674EB-44BB-4969-85FE-C6DBA704DE65}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
