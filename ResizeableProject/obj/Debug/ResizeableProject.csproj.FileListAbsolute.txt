@@ -1,0 +1,6 @@
+F:\KhoaHoc\UnityGym\CsharpCodegym\ResizeableProject\bin\Debug\ResizeableProject.exe.config
+F:\KhoaHoc\UnityGym\CsharpCodegym\ResizeableProject\bin\Debug\ResizeableProject.exe
+F:\KhoaHoc\UnityGym\CsharpCodegym\ResizeableProject\bin\Debug\ResizeableProject.pdb
+F:\KhoaHoc\UnityGym\CsharpCodegym\ResizeableProject\obj\Debug\ResizeableProject.csprojResolveAssemblyReference.cache
+F:\KhoaHoc\UnityGym\CsharpCodegym\ResizeableProject\obj\Debug\ResizeableProject.exe
+F:\KhoaHoc\UnityGym\CsharpCodegym\ResizeableProject\obj\Debug\ResizeableProject.pdb

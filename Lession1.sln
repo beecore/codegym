@@ -49,6 +49,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnimalInterface", "AnimalIn
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IComparableproject", "IComparableproject\IComparableproject.csproj", "{D55D8A37-131E-4E2E-937F-BC2CA6C43701}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoopShapes", "LoopShapes\LoopShapes.csproj", "{FAA1FE89-4890-48CA-9DD8-8323BA21291A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResizeableProject", "ResizeableProject\ResizeableProject.csproj", "{D2FEF24D-BCE9-4DA0-888D-F67CDD66B75D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -147,6 +151,14 @@ Global
 		{D55D8A37-131E-4E2E-937F-BC2CA6C43701}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D55D8A37-131E-4E2E-937F-BC2CA6C43701}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D55D8A37-131E-4E2E-937F-BC2CA6C43701}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAA1FE89-4890-48CA-9DD8-8323BA21291A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAA1FE89-4890-48CA-9DD8-8323BA21291A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAA1FE89-4890-48CA-9DD8-8323BA21291A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAA1FE89-4890-48CA-9DD8-8323BA21291A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2FEF24D-BCE9-4DA0-888D-F67CDD66B75D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2FEF24D-BCE9-4DA0-888D-F67CDD66B75D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2FEF24D-BCE9-4DA0-888D-F67CDD66B75D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2FEF24D-BCE9-4DA0-888D-F67CDD66B75D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
