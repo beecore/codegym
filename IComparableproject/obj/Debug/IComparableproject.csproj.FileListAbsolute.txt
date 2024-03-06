@@ -1,0 +1,5 @@
+F:\KhoaHoc\UnityGym\CsharpCodegym\IComparableproject\bin\Debug\IComparableproject.exe.config
+F:\KhoaHoc\UnityGym\CsharpCodegym\IComparableproject\bin\Debug\IComparableproject.exe
+F:\KhoaHoc\UnityGym\CsharpCodegym\IComparableproject\bin\Debug\IComparableproject.pdb
+F:\KhoaHoc\UnityGym\CsharpCodegym\IComparableproject\obj\Debug\IComparableproject.exe
+F:\KhoaHoc\UnityGym\CsharpCodegym\IComparableproject\obj\Debug\IComparableproject.pdb
