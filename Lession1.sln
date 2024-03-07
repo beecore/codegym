@@ -57,6 +57,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "interfaceIColorableProject"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IndexOutOfRangeException", "IndexOutOfRangeException\IndexOutOfRangeException.csproj", "{68FDFAB6-C049-4463-A52D-E58BE38C9213}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileFileInfo", "FileFileInfo\FileFileInfo.csproj", "{3394C839-301E-4508-8E86-3F6E862871A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "W8_0_sumNumber", "W8_0_sumNumber\W8_0_sumNumber.csproj", "{2A00AFFE-F66A-46F8-BE9F-AF3CF53F6419}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -171,6 +175,14 @@ Global
 		{68FDFAB6-C049-4463-A52D-E58BE38C9213}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{68FDFAB6-C049-4463-A52D-E58BE38C9213}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{68FDFAB6-C049-4463-A52D-E58BE38C9213}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3394C839-301E-4508-8E86-3F6E862871A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3394C839-301E-4508-8E86-3F6E862871A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3394C839-301E-4508-8E86-3F6E862871A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3394C839-301E-4508-8E86-3F6E862871A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A00AFFE-F66A-46F8-BE9F-AF3CF53F6419}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A00AFFE-F66A-46F8-BE9F-AF3CF53F6419}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A00AFFE-F66A-46F8-BE9F-AF3CF53F6419}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A00AFFE-F66A-46F8-BE9F-AF3CF53F6419}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

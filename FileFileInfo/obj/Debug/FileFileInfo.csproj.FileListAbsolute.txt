@@ -1,0 +1,6 @@
+F:\KhoaHoc\UnityGym\CsharpCodegym\FileFileInfo\bin\Debug\FileFileInfo.exe.config
+F:\KhoaHoc\UnityGym\CsharpCodegym\FileFileInfo\bin\Debug\FileFileInfo.exe
+F:\KhoaHoc\UnityGym\CsharpCodegym\FileFileInfo\bin\Debug\FileFileInfo.pdb
+F:\KhoaHoc\UnityGym\CsharpCodegym\FileFileInfo\obj\Debug\FileFileInfo.csprojResolveAssemblyReference.cache
+F:\KhoaHoc\UnityGym\CsharpCodegym\FileFileInfo\obj\Debug\FileFileInfo.exe
+F:\KhoaHoc\UnityGym\CsharpCodegym\FileFileInfo\obj\Debug\FileFileInfo.pdb
