@@ -1,0 +1,6 @@
+F:\KhoaHoc\UnityGym\CsharpCodegym\IndexOutOfRangeException\bin\Debug\IndexOutOfRangeException.exe.config
+F:\KhoaHoc\UnityGym\CsharpCodegym\IndexOutOfRangeException\bin\Debug\IndexOutOfRangeException.exe
+F:\KhoaHoc\UnityGym\CsharpCodegym\IndexOutOfRangeException\bin\Debug\IndexOutOfRangeException.pdb
+F:\KhoaHoc\UnityGym\CsharpCodegym\IndexOutOfRangeException\obj\Debug\IndexOutOfRangeException.csprojResolveAssemblyReference.cache
+F:\KhoaHoc\UnityGym\CsharpCodegym\IndexOutOfRangeException\obj\Debug\IndexOutOfRangeException.exe
+F:\KhoaHoc\UnityGym\CsharpCodegym\IndexOutOfRangeException\obj\Debug\IndexOutOfRangeException.pdb
