@@ -1,0 +1,5 @@
+F:\KhoaHoc\UnityGym\CsharpCodegym\LoopShapes\bin\Debug\LoopShapes.exe.config
+F:\KhoaHoc\UnityGym\CsharpCodegym\LoopShapes\bin\Debug\LoopShapes.exe
+F:\KhoaHoc\UnityGym\CsharpCodegym\LoopShapes\bin\Debug\LoopShapes.pdb
+F:\KhoaHoc\UnityGym\CsharpCodegym\LoopShapes\obj\Debug\LoopShapes.exe
+F:\KhoaHoc\UnityGym\CsharpCodegym\LoopShapes\obj\Debug\LoopShapes.pdb
