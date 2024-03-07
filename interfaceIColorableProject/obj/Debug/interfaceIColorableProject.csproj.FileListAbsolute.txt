@@ -1,0 +1,6 @@
+F:\KhoaHoc\UnityGym\CsharpCodegym\interfaceIColorableProject\bin\Debug\interfaceIColorableProject.exe.config
+F:\KhoaHoc\UnityGym\CsharpCodegym\interfaceIColorableProject\bin\Debug\interfaceIColorableProject.exe
+F:\KhoaHoc\UnityGym\CsharpCodegym\interfaceIColorableProject\bin\Debug\interfaceIColorableProject.pdb
+F:\KhoaHoc\UnityGym\CsharpCodegym\interfaceIColorableProject\obj\Debug\interfaceIColorableProject.csprojResolveAssemblyReference.cache
+F:\KhoaHoc\UnityGym\CsharpCodegym\interfaceIColorableProject\obj\Debug\interfaceIColorableProject.exe
+F:\KhoaHoc\UnityGym\CsharpCodegym\interfaceIColorableProject\obj\Debug\interfaceIColorableProject.pdb

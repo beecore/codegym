@@ -53,6 +53,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoopShapes", "LoopShapes\Lo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResizeableProject", "ResizeableProject\ResizeableProject.csproj", "{D2FEF24D-BCE9-4DA0-888D-F67CDD66B75D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "interfaceIColorableProject", "interfaceIColorableProject\interfaceIColorableProject.csproj", "{59181F6F-A495-4849-95CC-8E9BE9B88688}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -159,6 +161,10 @@ Global
 		{D2FEF24D-BCE9-4DA0-888D-F67CDD66B75D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D2FEF24D-BCE9-4DA0-888D-F67CDD66B75D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D2FEF24D-BCE9-4DA0-888D-F67CDD66B75D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59181F6F-A495-4849-95CC-8E9BE9B88688}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59181F6F-A495-4849-95CC-8E9BE9B88688}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59181F6F-A495-4849-95CC-8E9BE9B88688}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59181F6F-A495-4849-95CC-8E9BE9B88688}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
