@@ -1,0 +1,6 @@
+F:\KhoaHoc\UnityGym\CsharpCodegym\W8_1_copyFile\bin\Debug\W8_1_copyFile.exe.config
+F:\KhoaHoc\UnityGym\CsharpCodegym\W8_1_copyFile\obj\Debug\W8_1_copyFile.csprojResolveAssemblyReference.cache
+F:\KhoaHoc\UnityGym\CsharpCodegym\W8_1_copyFile\bin\Debug\W8_1_copyFile.exe
+F:\KhoaHoc\UnityGym\CsharpCodegym\W8_1_copyFile\bin\Debug\W8_1_copyFile.pdb
+F:\KhoaHoc\UnityGym\CsharpCodegym\W8_1_copyFile\obj\Debug\W8_1_copyFile.exe
+F:\KhoaHoc\UnityGym\CsharpCodegym\W8_1_copyFile\obj\Debug\W8_1_copyFile.pdb

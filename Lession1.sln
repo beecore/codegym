@@ -61,6 +61,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileFileInfo", "FileFileInf
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "W8_0_sumNumber", "W8_0_sumNumber\W8_0_sumNumber.csproj", "{2A00AFFE-F66A-46F8-BE9F-AF3CF53F6419}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "W8_1_copyFile", "W8_1_copyFile\W8_1_copyFile.csproj", "{A5FC812B-F913-4733-9297-3DB1AD06A68D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "W8_2_xml", "W8_2_xml\W8_2_xml.csproj", "{F97ABAD3-7D97-470B-A286-CABC58839AAE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -183,6 +187,14 @@ Global
 		{2A00AFFE-F66A-46F8-BE9F-AF3CF53F6419}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2A00AFFE-F66A-46F8-BE9F-AF3CF53F6419}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2A00AFFE-F66A-46F8-BE9F-AF3CF53F6419}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5FC812B-F913-4733-9297-3DB1AD06A68D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5FC812B-F913-4733-9297-3DB1AD06A68D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5FC812B-F913-4733-9297-3DB1AD06A68D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5FC812B-F913-4733-9297-3DB1AD06A68D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F97ABAD3-7D97-470B-A286-CABC58839AAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F97ABAD3-7D97-470B-A286-CABC58839AAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F97ABAD3-7D97-470B-A286-CABC58839AAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F97ABAD3-7D97-470B-A286-CABC58839AAE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

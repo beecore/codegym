@@ -11,10 +11,13 @@ namespace W8_0_sumNumber
         static void Main(string[] args)
         {
             string sourceFilePath = @"C:\MyData\a\numbers.txt"; //File nguồn
-            Console.WriteLine("File path: " + sourceFilePath);
-            ReadTextFileExample example = new ReadTextFileExample();
-            example.ReadTextFile(sourceFilePath);
+            if (sourceFilePath.Trim().Length >0)
+            {
+                ReadTextFileExample example = new ReadTextFileExample();
+                example.WriteFile(sourceFilePath);
+            }
             Console.ReadLine();
+        
         }
     }
 }
