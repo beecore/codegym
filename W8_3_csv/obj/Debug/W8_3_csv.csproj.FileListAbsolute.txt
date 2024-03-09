@@ -1,0 +1,6 @@
+F:\KhoaHoc\UnityGym\CsharpCodegym\W8_3_csv\bin\Debug\W8_3_csv.exe.config
+F:\KhoaHoc\UnityGym\CsharpCodegym\W8_3_csv\bin\Debug\W8_3_csv.exe
+F:\KhoaHoc\UnityGym\CsharpCodegym\W8_3_csv\bin\Debug\W8_3_csv.pdb
+F:\KhoaHoc\UnityGym\CsharpCodegym\W8_3_csv\obj\Debug\W8_3_csv.csprojResolveAssemblyReference.cache
+F:\KhoaHoc\UnityGym\CsharpCodegym\W8_3_csv\obj\Debug\W8_3_csv.exe
+F:\KhoaHoc\UnityGym\CsharpCodegym\W8_3_csv\obj\Debug\W8_3_csv.pdb

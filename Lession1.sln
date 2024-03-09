@@ -65,6 +65,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "W8_1_copyFile", "W8_1_copyF
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "W8_2_xml", "W8_2_xml\W8_2_xml.csproj", "{F97ABAD3-7D97-470B-A286-CABC58839AAE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "W8_3_csv", "W8_3_csv\W8_3_csv.csproj", "{BE512013-1849-4569-B003-2099AC23E8AF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -195,6 +197,10 @@ Global
 		{F97ABAD3-7D97-470B-A286-CABC58839AAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F97ABAD3-7D97-470B-A286-CABC58839AAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F97ABAD3-7D97-470B-A286-CABC58839AAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE512013-1849-4569-B003-2099AC23E8AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE512013-1849-4569-B003-2099AC23E8AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE512013-1849-4569-B003-2099AC23E8AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE512013-1849-4569-B003-2099AC23E8AF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
