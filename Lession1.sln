@@ -67,6 +67,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "W8_2_xml", "W8_2_xml\W8_2_x
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "W8_3_csv", "W8_3_csv\W8_3_csv.csproj", "{BE512013-1849-4569-B003-2099AC23E8AF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "W8_4_product", "W8_4_product\W8_4_product.csproj", "{845C4E91-7E87-4B0D-A011-E692A2D9BFFD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -201,6 +203,10 @@ Global
 		{BE512013-1849-4569-B003-2099AC23E8AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BE512013-1849-4569-B003-2099AC23E8AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BE512013-1849-4569-B003-2099AC23E8AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{845C4E91-7E87-4B0D-A011-E692A2D9BFFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{845C4E91-7E87-4B0D-A011-E692A2D9BFFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{845C4E91-7E87-4B0D-A011-E692A2D9BFFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{845C4E91-7E87-4B0D-A011-E692A2D9BFFD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
