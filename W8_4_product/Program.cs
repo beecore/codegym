@@ -135,20 +135,6 @@ namespace W8_4_product
                 }
                 Console.WriteLine();
             }
-            // Tìm kiếm sản phẩm theo mã sản phẩm
-            //string[] lines = File.ReadAllLines(filePath);
-            //bool found = false;
-            //foreach (string line in lines)
-            //{
-            //    string[] parts = line.Split(',');
-            //    if (parts[0] == searchCode)
-            //    {
-            //        Console.WriteLine("Thông tin sản phẩm:");
-            //        Console.WriteLine(line);
-            //        found = true;
-            //        break;
-            //    }
-            //}
 
             if (!found)
             {
