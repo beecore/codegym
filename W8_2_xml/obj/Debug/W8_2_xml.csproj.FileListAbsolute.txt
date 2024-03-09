@@ -1,0 +1,6 @@
+F:\KhoaHoc\UnityGym\CsharpCodegym\W8_2_xml\bin\Debug\W8_2_xml.exe.config
+F:\KhoaHoc\UnityGym\CsharpCodegym\W8_2_xml\bin\Debug\W8_2_xml.exe
+F:\KhoaHoc\UnityGym\CsharpCodegym\W8_2_xml\bin\Debug\W8_2_xml.pdb
+F:\KhoaHoc\UnityGym\CsharpCodegym\W8_2_xml\obj\Debug\W8_2_xml.csprojResolveAssemblyReference.cache
+F:\KhoaHoc\UnityGym\CsharpCodegym\W8_2_xml\obj\Debug\W8_2_xml.exe
+F:\KhoaHoc\UnityGym\CsharpCodegym\W8_2_xml\obj\Debug\W8_2_xml.pdb

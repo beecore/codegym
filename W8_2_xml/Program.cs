@@ -10,6 +10,7 @@ namespace W8_2_xml
     {
         static void Main(string[] args)
         {
+            ReadWriteFileXML.WriteToFile();
         }
     }
 }
