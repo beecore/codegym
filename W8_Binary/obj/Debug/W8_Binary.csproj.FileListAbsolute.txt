@@ -1,0 +1,6 @@
+F:\KhoaHoc\UnityGym\CsharpCodegym\W8_Binary\bin\Debug\W8_Binary.exe.config
+F:\KhoaHoc\UnityGym\CsharpCodegym\W8_Binary\bin\Debug\W8_Binary.exe
+F:\KhoaHoc\UnityGym\CsharpCodegym\W8_Binary\bin\Debug\W8_Binary.pdb
+F:\KhoaHoc\UnityGym\CsharpCodegym\W8_Binary\obj\Debug\W8_Binary.csprojResolveAssemblyReference.cache
+F:\KhoaHoc\UnityGym\CsharpCodegym\W8_Binary\obj\Debug\W8_Binary.exe
+F:\KhoaHoc\UnityGym\CsharpCodegym\W8_Binary\obj\Debug\W8_Binary.pdb

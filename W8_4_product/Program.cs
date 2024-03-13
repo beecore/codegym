@@ -7,44 +7,63 @@ using System.Threading.Tasks;
 
 namespace W8_4_product
 {
+
+    class Product
+    {
+        public string ProductCode { get; set; }
+        public string ProductName { get; set; }
+        public string Manufacturer { get; set; }
+        public double Price { get; set; }
+        public string OtherDescriptions { get; set; }
+
+        public Product(string productCode, string productName, string manufacturer, double price, string otherDescriptions)
+        {
+            ProductCode = productCode;
+            ProductName = productName;
+            Manufacturer = manufacturer;
+            Price = price;
+            OtherDescriptions = otherDescriptions;
+        }
+
+        public override string ToString()
+        {
+            return $"Product Code: {ProductCode}, Name: {ProductName}, Manufacturer: {Manufacturer}, Price: {Price}, Other Descriptions: {OtherDescriptions}";
+        }
+    }
+
     class Program
     {
-        static string filePath= "products.csv";
-      
+        static List<Product> products = new List<Product>();
+
         static void Main(string[] args)
         {
-            Console.OutputEncoding = Encoding.UTF8;
+            LoadProducts();
+
             while (true)
             {
-                Console.WriteLine("Chọn một tùy chọn:");
-                Console.WriteLine("1. Thêm sản phẩm");
-                Console.WriteLine("2. Hiển thị danh sách sản phẩm");
-                Console.WriteLine("3. Tìm kiếm sản phẩm");
-                Console.WriteLine("4. Thoát");
-
-                int choice;
-                if (!int.TryParse(Console.ReadLine(), out choice))
-                {
-                    Console.WriteLine("Vui lòng nhập một số nguyên từ 1 đến 4.");
-                    
-                }
+                Console.WriteLine("1. Add Product");
+                Console.WriteLine("2. Display Products");
+                Console.WriteLine("3. Search Product");
+                Console.WriteLine("4. Exit");
+                Console.Write("Enter your choice: ");
+                string choice = Console.ReadLine();
 
                 switch (choice)
                 {
-                    case 1:
+                    case "1":
                         AddProduct();
                         break;
-                    case 2:
+                    case "2":
                         DisplayProducts();
                         break;
-                    case 3:
+                    case "3":
                         SearchProduct();
                         break;
-                    case 4:
-                        Environment.Exit(0);
+                    case "4":
+                        SaveProducts();
                         return;
                     default:
-                        Console.WriteLine("Not Valid");
+                        Console.WriteLine("Invalid choice. Please enter again.");
                         break;
                 }
             }
@@ -52,94 +71,79 @@ namespace W8_4_product
 
         static void AddProduct()
         {
-            Console.WriteLine("Nhập thông tin sản phẩm:");
-
-            Console.Write("Mã sản phẩm: ");
-            string code = Console.ReadLine();
-
-            Console.Write("Tên sản phẩm: ");
-            string name = Console.ReadLine();
-
-            Console.Write("Hãng sản xuất: ");
+            Console.WriteLine("Enter Product Code:");
+            string productCode = Console.ReadLine();
+            Console.WriteLine("Enter Product Name:");
+            string productName = Console.ReadLine();
+            Console.WriteLine("Enter Manufacturer:");
             string manufacturer = Console.ReadLine();
+            Console.WriteLine("Enter Price:");
+            double price = Convert.ToDouble(Console.ReadLine());
+            Console.WriteLine("Enter Other Descriptions:");
+            string otherDescriptions = Console.ReadLine();
 
-            Console.Write("Giá: ");
-            decimal price;
-
-
-            while (!decimal.TryParse(Console.ReadLine(), out price))
-            {
-                Console.WriteLine("Vui lòng nhập một số.");
-            }
-
-            Console.Write("Mô tả: ");
-            string description = Console.ReadLine();
-
-            
-            // Ghi thông tin sản phẩm vào tệp
-            using (StreamWriter sw = new StreamWriter(filePath, true))
-            {
-                sw.WriteLine($"{code},{name},{manufacturer},{price},{description}");
-            }
-
-            Console.WriteLine("Sản phẩm đã được thêm thành công.");
+            Product newProduct = new Product(productCode, productName, manufacturer, price, otherDescriptions);
+            products.Add(newProduct);
+            Console.WriteLine("Product added successfully!");
         }
 
         static void DisplayProducts()
         {
-            if (!File.Exists(filePath))
+            foreach (var product in products)
             {
-                Console.WriteLine("Không có sản phẩm nào được lưu.");
-                return;
-            }
-            StreamReader reader = new StreamReader(filePath);
-            // Đọc và hiển thị thông tin sản phẩm từ tệp
-            while (!reader.EndOfStream)
-            {
-                var line = reader.ReadLine();
-                string[] values = line.Split(',');
-                foreach (var value in values)
-                {
-                    Console.Write(value + " ");
-                }
-                Console.WriteLine();
+                Console.WriteLine(product);
             }
         }
 
         static void SearchProduct()
         {
-            Console.Write("Nhập mã sản phẩm cần tìm kiếm: ");
+            Console.WriteLine("Enter Product Code to search:");
             string searchCode = Console.ReadLine();
-
-            if (!File.Exists(filePath))
+            var foundProduct = products.Find(product => product.ProductCode == searchCode);
+            if (foundProduct != null)
             {
-                Console.WriteLine("Không có sản phẩm nào được lưu.");
-                return;
+                Console.WriteLine("Product Found:");
+                Console.WriteLine(foundProduct);
             }
-
-            StreamReader reader = new StreamReader(filePath);
-            // Đọc và hiển thị thông tin sản phẩm từ tệp
-            // Tìm kiếm sản phẩm theo mã sản phẩm
-            bool found = false;
-            while (!reader.EndOfStream)
+            else
             {
-                var line = reader.ReadLine();
-                string[] values = line.Split(',');
-
-                if (values[0] == searchCode)
-                {
-                    Console.WriteLine("Thông tin sản phẩm:");
-                    Console.WriteLine(line);
-                    found = true;
-                    break;
-                }
-                Console.WriteLine();
-            }
-
-            if (!found)
-            {
-                Console.WriteLine("Không tìm thấy sản phẩm với mã sản phẩm đã nhập.");
+                Console.WriteLine("Product not found!");
             }
         }
+
+        static void LoadProducts()
+        {
+            if (File.Exists("products.dat"))
+            {
+                using (BinaryReader reader = new BinaryReader(File.Open("products.csv", FileMode.Open)))
+                {
+                    while (reader.PeekChar() > -1)
+                    {
+                        string productCode = reader.ReadString();
+                        string productName = reader.ReadString();
+                        string manufacturer = reader.ReadString();
+                        double price = reader.ReadDouble();
+                        string otherDescriptions = reader.ReadString();
+                        products.Add(new Product(productCode, productName, manufacturer, price, otherDescriptions));
+                    }
+                }
+            }
+        }
+
+        static void SaveProducts()
+        {
+            using (BinaryWriter writer = new BinaryWriter(File.Open("products.csv", FileMode.Create)))
+            {
+                foreach (var product in products)
+                {
+                    writer.Write(product.ProductCode);
+                    writer.Write(product.ProductName);
+                    writer.Write(product.Manufacturer);
+                    writer.Write(product.Price);
+                    writer.Write(product.OtherDescriptions);
+                }
+            }
+        }
+
     }
 }
