@@ -6,10 +6,13 @@ using System.Threading.Tasks;
 
 namespace TicTacToe
 {
+    [Serializable]
     abstract class Player
     {
-        protected char character;
-        protected char Character { get { return character; } }
+        protected char marker;
+
+        public char Marker { get { return marker; } }
+
         public abstract void MakeMove(Board board);
     }
 }

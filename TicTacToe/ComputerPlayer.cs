@@ -6,16 +6,23 @@ using System.Threading.Tasks;
 
 namespace TicTacToe
 {
+    [Serializable]
     class ComputerPlayer : Player
     {
-        public ComputerPlayer(char character)
+        public ComputerPlayer(char marker)
         {
-            this.character = character;
+            this.marker = marker;
         }
 
         public override void MakeMove(Board board)
         {
-            throw new NotImplementedException();
+            Random rand = new Random();
+            int row, col;
+            do
+            {
+                row = rand.Next(0, 3);
+                col = rand.Next(0, 3);
+            } while (!board.PlaceMarker(row, col, marker));
         }
     }
 }

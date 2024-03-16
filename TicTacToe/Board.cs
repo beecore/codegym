@@ -1,18 +1,17 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace TicTacToe
 {
-    public class Board
+    [Serializable]
+    internal class Board
     {
         private char[,] board = new char[3, 3];
+
         public Board()
         {
             InitializeBoard();
         }
+
         public void InitializeBoard()
         {
             for (int i = 0; i < 3; i++)
@@ -23,6 +22,7 @@ namespace TicTacToe
                 }
             }
         }
+
         public void DrawBoard()
         {
             Console.WriteLine("  0 1 2");
@@ -36,10 +36,53 @@ namespace TicTacToe
                 Console.WriteLine();
             }
         }
-        public bool CheckWinner()
-        {
-            return false;
 
+        public bool PlaceMarker(int row, int col, char marker)
+        {
+            if (row < 0 || row >= 3 || col < 0 || col >= 3 || board[row, col] != '-')
+            {
+                return false;
+            }
+            board[row, col] = marker;
+            return true;
+        }
+
+        public char CheckWinner()
+        {
+            for (int i = 0; i < 3; i++)
+            {
+                if (board[i, 0] == board[i, 1] && board[i, 1] == board[i, 2] && board[i, 0] != '-')
+                {
+                    return board[i, 0];
+                }
+                if (board[0, i] == board[1, i] && board[1, i] == board[2, i] && board[0, i] != '-')
+                {
+                    return board[0, i];
+                }
+            }
+
+            if (board[0, 0] == board[1, 1] && board[1, 1] == board[2, 2] && board[0, 0] != '-')
+            {
+                return board[0, 0];
+            }
+            if (board[0, 2] == board[1, 1] && board[1, 1] == board[2, 0] && board[0, 2] != '-')
+            {
+                return board[0, 2];
+            }
+
+            return '-';
+        }
+
+        public bool IsBoardFull()
+        {
+            foreach (char marker in board)
+            {
+                if (marker == '-')
+                {
+                    return false;
+                }
+            }
+            return true;
         }
     }
 }

@@ -6,15 +6,24 @@ using System.Threading.Tasks;
 
 namespace TicTacToe
 {
+    [Serializable]
     class HumanPlayer : Player
     {
-        public HumanPlayer(char character)
+        public HumanPlayer(char marker)
         {
-            this.character = character;
+            this.marker = marker;
         }
+
         public override void MakeMove(Board board)
         {
-            throw new NotImplementedException();
+            int row, col;
+            do
+            {
+                Console.Write("Enter row: ");
+                row = Convert.ToInt32(Console.ReadLine());
+                Console.Write("Enter column: ");
+                col = Convert.ToInt32(Console.ReadLine());
+            } while (!board.PlaceMarker(row, col, marker));
         }
     }
 }
